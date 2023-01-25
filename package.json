@@ -1,0 +1,20 @@
+{
+  "name": "runclub",
+  "version": "1.0.0",
+  "description": "A running social network. Connect with other runners. Find the best races. Volunteer for the best running orgs. Etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahlangner/runclub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahlangner/runclub/issues"
+  },
+  "homepage": "https://github.com/jeremiahlangner/runclub#readme"
+}
