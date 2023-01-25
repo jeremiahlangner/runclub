@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass src/style.scss build/style.css && cp src/index.html build/index.html",
     "start": "open src/index.html"
   },
   "repository": {
