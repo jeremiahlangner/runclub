@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jeremiahlangner/runclub/issues"
   },
-  "homepage": "https://github.com/jeremiahlangner/runclub#readme"
+  "homepage": "https://github.com/jeremiahlangner/runclub#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "esbuild": "^0.17.4",
+    "eslint": "^8.32.0"
+  }
 }
